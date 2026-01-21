@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Adobe-Android - David Brown 
-- 👀 I’m interested in finance, economics, business, chess, computer hardware, information security, retro hardware and software
+- 👀 I’m interested in finance, economics, business, investing, coffee, chess, computer hardware, information security, retro hardware and software
 - 🌱 I’m currently learning about building tools related to investing
 - 🙌 I’m looking to collaborate on anything with [@glenvollmer](https://github.com/glenvollmer)
